@@ -1,5 +1,5 @@
 context:
-  version: 5.5
+  version: "5.7"
 
 package:
   name: entr
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://eradman.com/entrproject/code/entr-${{ version }}.tar.gz
-  sha256: 128c0ce2efea5ae6bd3fd33c3cd31e161eb0c02609d8717ad37e95b41656e526
+  sha256: 90c5d943820c70cef37eb41a382a6ea4f5dd7fd95efef13b2b5520d320f5d067
 
 build:
   number: 0
